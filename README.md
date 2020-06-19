@@ -3,7 +3,7 @@
 A reduced instruction set computer, or RISC (/rɪsk/), is a computer instruction set that allows a computer's 
 microprocessor to have fewer cycles per instruction (CPI) than a complex instruction set computer (CISC).
 The proposed design implements the chip design on top of Harvard Architecture. The processor width is 
-16bit and have 8 General Purpose Registers with dedicated instruction and data memory. The default Instruction and 
+16bit and have 8 General Purpose Registers with dedicated instruction and data memory, with LOAD/STORE ISA. The default Instruction and 
 Data cache size are given in the 'parameter.v' file, along with the data width and other runtime parameters.
 
 The verilog code was written and simulated to test the design and workflow. 

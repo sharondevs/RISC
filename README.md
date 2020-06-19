@@ -44,5 +44,7 @@ C. Control Flow Instructions
               Branch to (PC + 2 + (offset << 1)) when rs1 != rs2
 3. Jump: JMP offset Jump to {PC [15:13], (offset << 1)}
 
+Simulation results:
+![](simulation/simulation.png)
 Detailed documentation is provided along with the repository.
 

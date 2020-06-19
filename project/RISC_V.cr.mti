@@ -1,0 +1,60 @@
+D:/work5/register_file.v {1 {vlog -work work -stats=none D:/work5/register_file.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module GPRs
+
+Top level modules:
+	GPRs
+
+} {} {}} D:/work5/test_RISC.v {1 {vlog -work work -stats=none D:/work5/test_RISC.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test_bench
+
+Top level modules:
+	test_bench
+
+} {} {}} D:/work5/control_unit.v {1 {vlog -work work -stats=none D:/work5/control_unit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+
+} {} {}} D:/work5/RISCV_top.v {1 {vlog -work work -stats=none D:/work5/RISCV_top.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module risc_16
+
+Top level modules:
+	risc_16
+
+} {} {}} D:/work5/alu_cu.v {1 {vlog -work work -stats=none D:/work5/alu_cu.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu_control
+
+Top level modules:
+	alu_control
+
+} {} {}} D:/work5/alu_unit.v {1 {vlog -work work -stats=none D:/work5/alu_unit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/work5/parameter.v {1 {vlog -work work -stats=none D:/work5/parameter.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+
+} {} {}} D:/work5/instrct_mem.v {1 {vlog -work work -stats=none D:/work5/instrct_mem.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module intruction_memory
+
+Top level modules:
+	intruction_memory
+
+} {} {}} D:/work5/data_memory.v {1 {vlog -work work -stats=none D:/work5/data_memory.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module data_memory
+
+Top level modules:
+	data_memory
+
+} {} {}}

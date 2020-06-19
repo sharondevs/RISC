@@ -1,0 +1,200 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/work3(kscste)
+valu
+Z0 !s110 1591857224
+!i10b 1
+!s100 Eha:5DAo0G1F0NaE@6V1^0
+IQA?R@b==hf5Cc4zhF@2ig3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/work5
+w1591677846
+8D:/work5/alu_unit.v
+FD:/work5/alu_unit.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1591857224.000000
+!s107 D:/work5/alu_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/work5/alu_unit.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+valu_control
+R0
+!i10b 1
+!s100 Y68X>=a]0FP:??YU2X3ja0
+IBcAlz?SS?OXXBPLko:oIo3
+R1
+R2
+w1591726391
+8D:/work5/alu_cu.v
+FD:/work5/alu_cu.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/work5/alu_cu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/work5/alu_cu.v|
+!s101 -O0
+!i113 1
+R5
+vcontrol_unit
+R0
+!i10b 1
+!s100 LzPgU8=C4<km0SoA^VAgF1
+IO9o2i:lMB9k=GW7V7`SFL1
+R1
+R2
+w1591854427
+8D:/work5/control_unit.v
+FD:/work5/control_unit.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/work5/control_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/work5/control_unit.v|
+!s101 -O0
+!i113 1
+R5
+vdata_memory
+!s110 1591857327
+!i10b 1
+!s100 Rn1H1c4VQMIWYV=]7oFoD1
+IGZ47@Gc7;I31hM>TEnh]^2
+R1
+R2
+w1591857321
+8D:/work5/data_memory.v
+FD:/work5/data_memory.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1591857327.000000
+!s107 parameter.v|D:/work5/data_memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/work5/data_memory.v|
+!s101 -O0
+!i113 1
+R5
+vdatapath_unit
+!s110 1591956871
+!i10b 1
+!s100 NPASo0YaH6cI7?3:Bz81R1
+I68JFjK1C_HXI<Y15=BYXi3
+R1
+R2
+w1591900694
+8D:/work5/datapath_unit.v
+FD:/work5/datapath_unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1591956871.000000
+!s107 D:/work5/datapath_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/work5/datapath_unit.v|
+!s101 -O0
+!i113 1
+R5
+vGPRs
+!s110 1591888327
+!i10b 1
+!s100 iPIoNWfkP8bSR_DLZTbzW0
+IID@Bzl4WLXANn?MGVHiHo3
+R1
+R2
+w1591888319
+8D:/work5/register_file.v
+FD:/work5/register_file.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1591888327.000000
+!s107 D:/work5/register_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/work5/register_file.v|
+!s101 -O0
+!i113 1
+R5
+n@g@p@rs
+vintruction_memory
+!s110 1591857222
+!i10b 1
+!s100 O3=W[6:^A0]S[@SNk<^<f2
+I^=oR>VQPJlTG]jHGETW@60
+R1
+R2
+w1591552875
+8D:/work5/instrct_mem.v
+FD:/work5/instrct_mem.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1591857221.000000
+!s107 parameter.v|D:/work5/instrct_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/work5/instrct_mem.v|
+!s101 -O0
+!i113 1
+R5
+vrisc_16
+!s110 1591857381
+!i10b 1
+!s100 kTNgmBH4K_S0IT?<GMNEF0
+I>_6fTkh1o6PFQV`@Xf;lf1
+R1
+R2
+w1591857376
+8D:/work5/RISCV_top.v
+FD:/work5/RISCV_top.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1591857381.000000
+!s107 D:/work5/RISCV_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/work5/RISCV_top.v|
+!s101 -O0
+!i113 1
+R5
+vtest_bench
+!s110 1591858600
+!i10b 1
+!s100 MYI49B]X;Cc<S;0R:mV9I1
+IfY1j4WgI0_Lk>2UaeX<]H3
+R1
+R2
+w1591858595
+8D:/work5/test_RISC.v
+FD:/work5/test_RISC.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1591858600.000000
+!s107 parameter.v|D:/work5/test_RISC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/work5/test_RISC.v|
+!s101 -O0
+!i113 1
+R5
